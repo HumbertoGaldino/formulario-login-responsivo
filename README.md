@@ -1,7 +1,7 @@
 # Responsive Login Form
 
 This is a simple and responsive login form made with HTML and CSS using transitions.<br />
-This project was made for a youtube tutorial.<br /><br/>
+This project was made with a youtube tutorial.<br /><br/>
 **Youtube link: https://youtu.be/MkXuQ9CcHqU**
 
 ### Final Result
