@@ -5,7 +5,7 @@ This project was made for a youtube tutorial.<br /><br/>
 **Youtube link: https://youtu.be/MkXuQ9CcHqU**
 
 ### Final Result
-<img src="assets/final.png" alt="Web Version"/>
+<img src="final.png" alt="Web Version"/>
 
 ## 🚀 Starting
 
